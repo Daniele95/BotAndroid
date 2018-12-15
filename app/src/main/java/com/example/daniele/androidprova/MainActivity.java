@@ -2,6 +2,7 @@ package com.example.daniele.androidprova;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import HttpURLConnection;
 
 public class MainActivity extends AppCompatActivity {
 
